@@ -1,0 +1,2 @@
+dataset,source,algorithm,raw_ratings,modeled_ratings,unique_users,unique_products,unique_product_types,train_ratings,test_ratings,best_n_factors,best_n_epochs,best_lr_all,test_rmse,test_mae
+Amazon Beauty Product Ratings,Kaggle: satrapankti/amazon-beauty-product-recommendation,SVD matrix factorization,20000,20000,18510,10352,22,16000,4000,100,20,0.005,1.2207,0.9685
